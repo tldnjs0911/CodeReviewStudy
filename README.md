@@ -29,8 +29,8 @@
 * 카테고리 별 베스트셀러 TOP 10 조회 기능
   + 설정한 카테고리 별 베스트셀러 TOP 10 정보 확인.
  
-해당 정보는 Rent Book Restful API 활용
-(https://github.com/mamenesia/rent-book)
+* 해당 정보는 Rent Book Restful API 활용
+  + (https://github.com/mamenesia/rent-book)
 
  # ERD
  
