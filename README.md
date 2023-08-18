@@ -30,4 +30,4 @@
 
  # ERD
  
-![ERD - Online Bookstore](https://github.com/tldnjs0911/CodeRivewStudy/assets/129709961/ec4c981a-6c12-42ea-b73e-9b5fcf3b2085)
+![ERD - Online Bookstore](https://github.com/tldnjs0911/CodeRivewStudy/assets/129709961/0d903a2e-1593-42ab-a1b6-8b57501b1785)
